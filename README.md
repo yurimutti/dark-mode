@@ -1,5 +1,5 @@
 <h4 align="center">
-  Tema light/dark com React, Styled Components e TypeScript.
+  Tema light/dark com React, Context API e Styled Components.
 </h4>
 
 <p align="center">
@@ -16,7 +16,6 @@
 Esse projeto está sendo desenvolvido com as seguintes tecnologias.
 
 -   [ReactJS](https://reactjs.org/)
--   [Typescript](https://www.typescriptlang.org/)
 -   [Polished](https://github.com/styled-components/polished)
 -   [React-switch](https://www.npmjs.com/package/react-switch)
 -   [VS Code][vc]
